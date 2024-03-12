@@ -62,6 +62,6 @@ To contribute to this project, please follow these guidelines:
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request
 
-## Crédtios
+## Créditos
 
 Esse projeto foi inspirado no [thiaguinho](https://www.youtube.com/@AprendaGolang).
